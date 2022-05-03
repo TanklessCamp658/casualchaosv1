@@ -12,6 +12,7 @@ Water +5
 <text>
 	<id>2</id>
 	<name>Food +20
+	Suggested by Arclightning
 </name>
 </text>
 
@@ -74,49 +75,49 @@ Max stack: 3
 <text>
 	<id>11</id>
 	<name>Ammo for: M4, L85, FN CAL, AUG.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>12</id>
 	<name>Ammo for: FNX, Colt, UMP-45.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>13</id>
-	<name>Ammo for: Sawed Mosin, Mosin Nagant, SVD, SV-98, Madsen.
-Max stack: 20
+	<name>Ammo for: Sawed Mosin, Mosin Nagant, SVD, SV-98, M60.
+Max stack: 120
 </name>
 </text>
 
 <text>
 	<id>14</id>
 	<name>Ammo for: SKS, AKM, RPK.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>15</id>
 	<name>Ammo for: AK-74u, AK-74, AN-94.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>16</id>
 	<name>Ammo for: Magnum, Mare's Leg, Repeater.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>17</id>
-	<name>Ammo for: IZH-43, Sawed IZH, Remington, Saiga-12k.
-Max stack: 15
+	<name>Ammo for: IZH-43, Sawed IZH, Benelli M3, Saiga-12k.
+Max stack: 90
 </name>
 </text>
 
@@ -352,13 +353,13 @@ Can be planted with pickaxe, pitchfork or shovel.
 
 <text>
 	<id>49</id>
-	<name>Ingridient for: Campfire Kit.
+	<name>Ingredient for: Campfire Kit.
 </name>
 </text>
 
 <text>
 	<id>50</id>
-	<name>Ingridient for: Campfire Kit, Fence.
+	<name>Ingredient for: Campfire Kit, Fence.
 Required for boat repair to get on 2nd island.
 </name>
 </text>
@@ -366,18 +367,18 @@ Required for boat repair to get on 2nd island.
 <text>
 	<id>51</id>
 	<name>Have 75% chance to break after shot.
-Ammo for: Improvised Bow, Crossbow.
+Ammo for: Composite Bow, Heavy Crossbow.
 Damage: 37-63
-Max stack: 5
+Max stack: 30
 </name>
 </text>
 
 <text>
 	<id>52</id>
 	<name>Have 50% chance to break after shot.
-Ammo for: Improvised Bow, Crossbow.
+Ammo for: Composite Bow, Heavy Crossbow.
 Damage: 56-94
-Max stack: 5
+Max stack: 30
 </name>
 </text>
 
@@ -416,8 +417,8 @@ Can be refilled with water pumps.
 
 <text>
 	<id>58</id>
-	<name>Ammo for: Sporter 22, Amphibia pistol.
-Max stack: 50
+	<name>Ammo for: Sporter 22, Silenced Beretta 92.
+Max stack: 500
 </name>
 </text>
 
@@ -468,7 +469,7 @@ Doubles blood regeneration speed for 60 seconds.
 <text>
 	<id>69</id>
 	<name>Ammo for: Glock, Mp5k, Mac-10.
-Max stack: 40
+Max stack: 360
 </name>
 </text>
 
@@ -581,7 +582,7 @@ Can be mounted on: M4, L85, FN-CAL, AUG.
 	<id>83</id>
 	<name>When attached to weapon makes magazine reload 30% faster.
 
-Can be mounted on: IZH-43, Remington, SKS, Mosin Nagant, Repeater.
+Can be mounted on: IZH-43, Benelli M3, SKS, Mosin Nagant, Repeater.
 </name>
 </text>
 
@@ -625,7 +626,7 @@ Can be mounted on: AK-74u, Ak-74, AN-94, AKM, M4, L85, FN CAL, AUG, RPK, Saiga12
 	<id>90</id>
 	<name>Decreases pellets spread for shotguns.
 
-Can be mounted on: IZH-43, Remington, Saiga-12k.
+Can be mounted on: IZH-43, Benelli M3, Saiga-12k.
 </name>
 </text>
 
@@ -687,7 +688,8 @@ Can be cooked on fireplace.
 
 <text>
 	<id>97</id>
-	<name>Bad trip guaranteed
+	<name>+20 Food
+	Suggested by Arclightning
 </name>
 </text>
 
@@ -709,14 +711,14 @@ Can be mounted on: SKS, Mosin Nagant, SVD, SV-98.
 <text>
 	<id>100</id>
 	<name>Ammo for: PM, PB, Bizon.
-Max stack: 40
+Max stack: 360
 </name>
 </text>
 
 <text>
 	<id>101</id>
 	<name>Ammo for: VSS, Groza.
-Max stack: 30
+Max stack: 360
 </name>
 </text>
 
@@ -741,14 +743,14 @@ Max stack: 30
 <text>
 	<id>105</id>
 	<name>Ammo for M203 grenade launcher.
-Max stack: 3
+Max stack: 30
 </name>
 </text>
 
 <text>
 	<id>106</id>
 	<name>Ammo for GP-25 grenade Launcher.
-Max stack: 3
+Max stack: 30
 </name>
 </text>
 
@@ -854,7 +856,6 @@ Max stack: 5
 <text>
 	<id>120</id>
 	<name>+5 Heat and slows hunger and thrist for 30 seonds upon use. 
-+5 Karma when gifted to other survivors.
 </name>
 </text>
 
@@ -950,7 +951,7 @@ Mag size: 18
 <text>
 	<id>215</id>
 	<name>Have built-in silencer.
-Damage: 11-19
+Damage: 16-27
 Accuracy: 8
 Aim Speed: 10 
 Ammo: 22lr
@@ -974,7 +975,8 @@ Mag size: 2
 
 <text>
 	<id>217</id>
-	<name>Damage: 67-113
+	<name>Gun skin by MosinSupremacy
+Damage: 67-113
 Accuracy: 1
 Aim Speed: 6
 Ammo: 7.62
@@ -986,7 +988,8 @@ Mag size: 5
 
 <text>
 	<id>218</id>
-	<name>Damage: 18-32
+	<name>Modified to be unbreakable.
+Damage: 18-32
 Accuracy: 7
 Aim Speed: 10
 Ammo: 45 ACP
@@ -1061,7 +1064,8 @@ Mag size: 9
 <!-- Mosin-->
 <text>
 	<id>232</id>
-	<name>Damage: 67-113
+	<name>Gun skin by MosinSupremacy
+Damage: 67-113
 Accuracy: 9
 Aim Speed: 4
 Rate of fire: 46
@@ -1170,9 +1174,9 @@ Mag size: 30
 	<name>Damage: 15-125
 Accuracy: 2
 Aim Speed: 4
-Rate of fire: 66
+Rate of fire: 200
 Ammo: 12cal
-Mag size: 6
+Mag size: 8
 </name>
 </text>
 
@@ -1190,7 +1194,8 @@ Mag size: 1
 <!-- CrossBow -->
 <text>
 	<id>244</id>
-	<name>Damage: 37-94
+	<name>Suggested weapon by MaksimTokarev
+Damage: 37-94
 Accuracy: 9
 Aim Speed: 6
 Ammo: Composite or Improvised Arrows.
@@ -1261,12 +1266,13 @@ Mag size: 30
 <!-- RPk -->
 <text>
 	<id>252</id>
-	<name>Damage: 26-44
+	<name>Uses drum mag.
+Damage: 26-44
 Accuracy: 7
 Aim Speed: 6
 Rate of fire: 600
 Ammo: 7.62x39
-Mag size: 40
+Mag size: 75
 </name>
 </text>
 
@@ -1285,12 +1291,13 @@ Mag size: 30
 <!-- Saiga12 -->
 <text>
 	<id>254</id>
-	<name>Damage: 15-125
+	<name>Uses drum mag
+Damage: 15-125
 Accuracy: 1
 Aim Speed: 4
 Rate of fire: 200
 Ammo: 12cal
-Mag size: 8
+Mag size: 15
 </name>
 </text>
 
@@ -1359,13 +1366,13 @@ Mag size: 10
 <!-- MAdsen -->
 <text>
 	<id>260</id>
-	<name>Very fragile rusty gun.
+	<name>Very destructive machinegun.
 Damage: 52-87
 Accuracy: 6
 Aim Speed: 6
 Rate of fire: 500
 Ammo: 7.62
-Mag size: 20
+Mag size: 60
 </name>
 </text>
 
@@ -1416,7 +1423,7 @@ Mag size: 30
 Accuracy: 6
 Aim Speed: 6
 Rate of fire: 1200
-Ammo: 45ACP
+Ammo: .45 ACP
 Mag size: 30
 </name>
 </text>
@@ -1461,7 +1468,7 @@ Mag size: 30
 
 <text>
 	<id>307</id>
-	<name>Can be deployed. Loot stored inside will never disappear. Cant be deployed back. ???
+	<name>Can be deployed. Loot stored inside will never disappear. Can be deployed back.
 </name>
 </text>
 
@@ -1541,7 +1548,9 @@ Mag size: 30
 <!-- Bulletproof -->
 <text>
 	<id>401</id>
-	<name>+8 Armor
+	<name>Suggested by MaksimTokarev
+Texture made by Nook
++15 Armor
 </name>
 </text>
 
@@ -1549,7 +1558,7 @@ Mag size: 30
 <text>
 	<id>402</id>
 	<name>+2 Slots
-+3 Armor
++5 Armor
 </name>
 </text>
 
@@ -1557,7 +1566,7 @@ Mag size: 30
 <text>
 	<id>403</id>
 	<name>+1 Slot
-+6 Armor
++7 Armor
 </name>
 </text>
 
@@ -1565,7 +1574,7 @@ Mag size: 30
 <text>
 	<id>404</id>
 	<name>+3 Slot
-+3 Armor
++6 Armor
 </name>
 </text>
 
@@ -1620,7 +1629,7 @@ Mag size: 30
 <!-- Gasmask -->
 <text>
 	<id>454</id>
-	<name>+2 Heat 
+	<name>+4 Heat 
 +1 Armor
 </name>
 </text>
@@ -1725,7 +1734,7 @@ Uses Batteries.
 <!-- NVG -->
 <text>
 	<id>467</id>
-	<name>+1 Heat 
+	<name>+4 Heat 
 Uses Batteries.
 </name>
 </text>
@@ -2085,7 +2094,7 @@ Can chop down trees.
 
 <text>
 	<id>154</id>
-	<name>I cant do it here.</name>
+	<name>I can't do it here.</name>
 </text>
 
 <text>
@@ -2117,7 +2126,7 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>160</id>
-	<name>Im already bleeding!</name>
+	<name>I'm already bleeding!</name>
 </text>
 
 <text>
@@ -2130,7 +2139,7 @@ Some unlocks can be done only on higher difficulties.
 	<name>There is nothing we can talk about.</name>
 </text>
 
-<!-- ????? ???? ??? ????????-->
+<!-- Фразы бота при командах-->
 
 
 <text>
@@ -2143,11 +2152,11 @@ Some unlocks can be done only on higher difficulties.
 	<name>I will guard this area.</name>
 </text>
 
-<!-- ????? ??? ???-->
+<!-- Фразы для сна-->
 
 <text>
 	<id>165</id>
-	<name>I cant sleep when enemies around.</name>
+	<name>I can't sleep when enemies around.</name>
 </text>
 
 <text>
@@ -2173,22 +2182,22 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>170</id>
-	<name>Its too cold here to sleep.</name>
+	<name>It's too cold here to sleep.</name>
 </text>
 
 <text>
 	<id>171</id>
-	<name>Im too hungry.</name>
+	<name>I'm too hungry.</name>
 </text>
 
 <text>
 	<id>172</id>
-	<name>Im too thirsty.</name>
+	<name>I'm too thirsty.</name>
 </text>
 
 <text>
 	<id>173</id>
-	<name>I cant do it while im bleeding.</name>
+	<name>I can't do it while im bleeding.</name>
 </text>
 
 <text>
@@ -2203,12 +2212,12 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>176</id>
-	<name>I cant sleep in daytime.</name>
+	<name>I can't sleep in daytime.</name>
 </text>
 
 <text>
 	<id>177</id>
-	<name>I cant sleep here.</name>
+	<name>I can't sleep here.</name>
 </text>
 
 <text>
@@ -2221,12 +2230,12 @@ Some unlocks can be done only on higher difficulties.
 	<name>Too close!</name>
 </text>
 
-<!-- ????????? -->
+<!-- Персонажи -->
 
 <text>
 	<id>180</id>
 	<name>Xavier "Pilot"
-Starting gear: gorka pants, sweater, pilot helmet, UMP-45, flare.
+Starting gear: gorka pants, sweater, tactical helmet, M60, flaregun.
 Unlocked perks: Survivalist(lvl.2), Scout</name>
 </text>
 
@@ -2240,7 +2249,7 @@ On "Legend" difficulty.</name>
 <text>
 	<id>182</id>
 	<name>Rudolf "Jager"
-Starting gear: Izh-43, Ushanka, 12cal ammo x10, hunter knife, fishing rod, hunter jacket, hunter pants.
+Starting gear: Mosin Nagant, 7.62 ammo x10, hunter knife, lighter, hunter jacket, hunter pants, hunter backpack.
 Unlocked perks: Hunter(lvl.2), Vigilance</name>
 </text>
 
@@ -2254,7 +2263,7 @@ On "Legend" difficulty.</name>
 <text>
 	<id>184</id>
 	<name>Taman "Guard"
-Starting gear: Police hat, orel jacket, orel pants, AKSu-74, energy drink.
+Starting gear: Police hat, orel jacket, orel pants, balaclava (static), AKSu-74, 5.45 silencer.
 Unlocked perks: Sharpshooter(lvl.2), Bullet farmer</name>
 </text>
 
@@ -2268,7 +2277,7 @@ On "Legend" difficulty.</name>
 <text>
 	<id>186</id>
 	<name>Daria "Scientist"
-Starting gear:  Worker pants, apron, shirt, tetracyclin, IV kit, vitamins, adrenaline, x3 bandages.
+Starting gear:  Worker pants, paramedic jacket, AN-94, RDS, tetracycline, vitamins, adrenaline, x30 5.45 ammo.
 Unlocked perks: Red+ (lvl.2), Sprinter</name>
 </text>
 
@@ -2311,7 +2320,7 @@ Current status:</name>
 	<id>192</id>
 	<name>Katana
 Unlocked.
-Locations: Gun shops.</name>
+Locations: Gun shops, bulldings.</name>
 </text>
 
 <text>
@@ -2321,7 +2330,7 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>194</id>
-	<name>This weapon cant be sharpened.</name>
+	<name>This weapon can't be sharpened.</name>
 </text>
 
 <text>
@@ -2386,7 +2395,7 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>207</id>
-	<name>Dont shoot, we are friendly</name>
+	<name>Don't shoot, we are friendly</name>
 </text>
 
 <text>
@@ -2436,36 +2445,36 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>617</id>
-	<name>� Slow hunger and thirst rate
-� Warm weather
-� Lowered NPCs damage to player
+	<name>• Slow hunger and thirst rate
+• Warm weather
+• Lowered NPCs damage to player
 </name>
 </text>
 
 <text>
 	<id>618</id>
-	<name>� Medium hunger and thirst rate
-� Normal weather
-� Regular NPCs damage to player
+	<name>• Medium hunger and thirst rate
+• Normal weather
+• Regular NPCs damage to player
 </name>
 </text>
 
 <text>
 	<id>619</id>
-	<name>� High hunger and thirst rate
-� Cold weather
-� High NPCs damage to player
-� Little more zombies in some locations
+	<name>• Normal hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
 </name>
 </text>
 
 <text>
 	<id>620</id>
-	<name>� High hunger and thirst rate
-� Cold weather
-� High NPCs damage to player
-� Little more zombies in some locations
-� Not explored areas is hidden on minimap
+	<name>• Normal hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
+• Not explored areas is hidden on minimap
 </name>
 </text>
 
@@ -2547,7 +2556,7 @@ On "Legend" difficulty.
 <text>
 	<id>633</id>
 	<name>Mike "Designer"
-Starting gear: Awesome hoodie, Worker pants, Sword, Vector, Energy Drink x4, ammo .45 ACP x60.
+Starting gear: Awesome hoodie, Worker pants, Sword, M16A2, magpull, ACOG scope, 5.56 silencer, M203, 40mm grenade x31, ammo 5.56 ammo x90.
 Unlocked perks: Sharpshooter, Puncher, Sprinter, Scout.</name>
 </text>
 
@@ -2560,24 +2569,24 @@ Unlock requirement: Finish the game with one of these characters: Emilio "Doc", 
 <text>
 	<id>635</id>
 	<name>Lighter
-Unlock requirement: Finish the game with one of these characters: Lee "Maniac", Sergey "Slav", John �Biker�.</name>
+Unlock requirement: Finish the game with one of these characters: Lee "Maniac", Sergey "Slav", John «Biker».</name>
 </text>
 
 <text>
 	<id>636</id>
 	<name>Smoke Grenade
-Unlock requirement: Finish the game with one of these characters: Ganzo "Dragon", Tom "Survivor", Garry "Veteran".</name>
+Unlock requirement: Finish the game with one of these characters: Kate "Tourist", Jasmine «Lumber», Aika "Stringer".</name>
 </text>
 
 <text>
 	<id>637</id>
 	<name>Laser sight
-Unlock requirement: Finish the game with one of these characters: Kate "Tourist", Jasmine �Lumber�, Aika "Stringer".</name>
+Unlock requirement: Finish the game with one of these characters: Ganzo "Dragon", Tom "Survivor", Garry "Veteran".</name>
 </text>
 
 <text>
 	<id>638</id>
-	<name>XXX
+	<name>Officer's Keycard
 Unlock requirement: Finish the game with one of these characters: Xavier "Pilot", Rudolf "Jager", Taman "Guard", Daria "Scientist".</name>
 </text>
 
@@ -2626,7 +2635,7 @@ Locations: Firestations, garages.</name>
 <text>
 	<id>647</id>
 	<name>Smoke Grenade
-Locations: Underground bunkers, Military Bases.</name>
+Locations: Underground bunkers, Military Bases, Houses.</name>
 </text>
 
 <text>
@@ -2648,12 +2657,12 @@ Locations: Carried by infected officers.</name>
 
 <text>
 	<id>651</id>
-	<name>I cant sleep, i can skip rescue helicopter.</name>
+	<name>I can't sleep, i can skip rescue helicopter.</name>
 </text>
 
 <text>
 	<id>652</id>
-	<name>I cant go to bunker, i can skip rescue helicopter.</name>
+	<name>I can't go to bunker, i can skip rescue helicopter.</name>
 </text>
 
 <text>

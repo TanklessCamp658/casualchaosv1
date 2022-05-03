@@ -419,7 +419,7 @@
 
 <item>
 	<id>155</id>
-	<name>Remington shotgun</name>
+	<name>Benelli M3</name>
 </item>
 
 <item>
@@ -464,12 +464,12 @@
 
 <item>
 	<id>164</id>
-	<name>Crossbow</name>
+	<name>Heavy Crossbow</name>
 </item>
 
 <item>
 	<id>165</id>
-	<name>Amphibia pistol</name>
+	<name>Silenced Beretta 92</name>
 </item>
 
 <item>
@@ -588,12 +588,12 @@
 
 <item>
 	<id>250</id>
-	<name>Gasmask</name>
+	<name>GP-5 mask</name>
 </item>
 
 <item>
 	<id>251</id>
-	<name>Army helmet</name>
+	<name>Combat Gasmask</name>
 </item>
 
 <item>
@@ -633,7 +633,7 @@
 
 <item>
 	<id>259</id>
-	<name>Hard hat</name>
+	<name>Tactical helmet</name>
 </item>
 
 <item>
@@ -653,7 +653,7 @@
 
 <item>
 	<id>263</id>
-	<name>Gorka helmet</name>
+	<name>K6-3 helmet</name>
 </item>
 
 <item>
@@ -799,7 +799,7 @@
 
 <item>
 	<id>400</id>
-	<name>Bulletproof vest</name>
+	<name>Complex M armour</name>
 </item>
 
 <item>
@@ -933,7 +933,7 @@
 
 <item>
 	<id>97</id>
-	<name>🍄</name>
+	<name>Canned tuna</name>
 </item>
 
 <item>
@@ -1015,7 +1015,7 @@
 
 <item>
 	<id>187</id>
-	<name>Madsen</name>
+	<name>M60</name>
 </item>
 
 <item>
@@ -1192,7 +1192,7 @@
 
 <item>
 	<id>268</id>
-	<name>Pilot Helmet</name>
+	<name>Riot Helmet</name>
 </item>
 
 </list>

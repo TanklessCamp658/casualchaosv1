@@ -381,7 +381,7 @@ On any difficulty.</name>
 <text>
 	<id>74</id>
 	<name>Lee "Maniac"
-Kill a bandit survivor with any axe. 
+Kill a stray/wandering melee bandit survivor with any axe. 
 On "Regular" or higher difficulty.</name>
 </text>
 
@@ -417,7 +417,7 @@ On "Veteran" or higher difficulty.</name>
 <text>
 	<id>79</id>
 	<name>Garry "Veteran"
-Unlock requirement: Carry a gorka set (gorka pants, gorka jacket, gorka helmet) in one run, all at once.
+Unlock requirement: Carry a Gorka set (gorka pants, gorka jacket, K6-3 helmet) in one run, all at once.
 On "Veteran" or higher difficulty.</name>
 </text>
 
@@ -445,28 +445,28 @@ Unlocked perks: None</name>
 <text>
 	<id>83</id>
 	<name>Billy "Red"
-Starting gear: jeans, t-shirt, bandana.
+Starting gear: jeans, shirt, bandana.
 Unlocked perks: Sharpshooter.</name>
 </text>
 
 <text>
 	<id>84</id>
 	<name>Emilio "Doc"
-Starting gear: paramedic pants, t-shirt, bandage.
+Starting gear: paramedic pants, paramedic jacket, bandage.
 Unlocked perks: Red+.</name>
 </text>
 
 <text>
 	<id>85</id>
 	<name>Dave "Boxer"
-Starting gear: jeans, t-shirt, rags.
+Starting gear: jeans, tracksuit jacket, rags.
 Unlocked perks: Blocker.</name>
 </text>
 
 <text>
 	<id>86</id>
 	<name>Lee "Maniac"
-Starting gear: jeans, dress, gasmask, butcher knife.
+Starting gear: jeans, cloak, crowbar, molotov.
 Unlocked perks: Sweet home</name>
 </text>
 
@@ -480,28 +480,28 @@ Unlocked perks: Sprinter.</name>
 <text>
 	<id>88</id>
 	<name>Sergey "Slav"
-Starting gear: tracksuit pants, tracksuit jacket, balaclava, baseball bat.
+Starting gear: tracksuit pants, down jacket, balaclava, baseball bat.
 Unlocked perks: Puncher.</name>
 </text>
 
 <text>
 	<id>89</id>
 	<name>Ganzo "Dragon"
-Starting gear: hunter pants, bow, 5 composite arrows
+Starting gear: hunter pants, heavy crossbow, arrow x10.
 Unlocked perks: Sprinter, Snowborn.</name>
 </text>
 
 <text>
 	<id>90</id>
 	<name>Tom "Survivor"
-Starting gear: jeans, t-shirt, cowboy hat, hunter knife, bag
+Starting gear: jeans, sweater, hunter knife, improvised bag, pan.
 Unlocked perks: Hunter, Survivalist.</name>
 </text>
 
 <text>
 	<id>91</id>
 	<name>Garry "Veteran"
-Starting gear: jeans, t-shirt, cap, bulletproof vest, colt 1911, ammo.
+Starting gear: jeans, t-shirt, cap, complex M armour, mp5k, ammo.
 Unlocked perks: Sharpshooter, Scout.</name>
 </text>
 
@@ -1644,7 +1644,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 	</text>
 	<text>
 		<id>505</id>
-		<name>Русский</name>
+		<name>Español</name>
 	</text>
 <text>
 	<id>506</id>
@@ -1883,7 +1883,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 <text>
 	<id>92</id>
 	<name>Kate "Tourist"
-Starting gear: jeans, raincoat, civilian tent, headlamp.
+Starting gear: jeans, raincoat, civilian tent, pickaxe.
 Unlocked perks: Hunter, Vigilance.</name>
 </text>
 
@@ -1897,7 +1897,7 @@ Unlocked perks: Hamster, Camel, Snowborn.</name>
 <text>
 	<id>94</id>
 	<name>Aika "Stringer"
-Starting gear: jeans, t-shirt, cap, press vest, canteen, radio.
+Starting gear: jeans, t-shirt, cap, press vest, canteen, radio, hammer.
 Unlocked perks: Sprinter, Scout.</name>
 </text>
 
